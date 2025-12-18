@@ -484,7 +484,7 @@ class std():
               text="DELETE",
               command=self.removeFunc,
               bg="white",
-              fg="white",
+              fg="red",
               font=("Arial",14,"bold"),
               bd=3,
               relief="ridge",
